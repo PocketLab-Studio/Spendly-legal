@@ -146,8 +146,8 @@ Continued use of Spendly after changes constitutes acceptance of the updated pol
 
 If you have questions about this Privacy Policy or how Spendly handles data:
 
-**Email**: [Your email address - add this before publishing]
-**Website**: [Your website - add this before publishing]
+**Email**: pocketlab.studio@gmail.com
+**Website**: https://pocketlab-studio.github.io/Spendly-legal/
 
 ## Legal Compliance
 

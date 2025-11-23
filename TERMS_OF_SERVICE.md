@@ -196,9 +196,9 @@ Your privacy is important. Please review our [Privacy Policy](./PRIVACY_POLICY.m
 
 ## Governing Law
 
-These Terms are governed by the laws of **[Your Country/State - add before publishing]**, without regard to conflict of law provisions.
+These Terms are governed by the laws of **South Korea**, without regard to conflict of law provisions.
 
-Any disputes will be resolved in the courts of **[Your Jurisdiction - add before publishing]**.
+Any disputes will be resolved in the courts of **South Korea**.
 
 ## Severability
 
@@ -213,7 +213,7 @@ These Terms, together with our Privacy Policy, constitute the entire agreement b
 Questions about these Terms?
 
 **Email**: pocketlab.studio@gmail.com
-**Website**: [Your website - add before publishing]
+**Website**: https://pocketlab-studio.github.io/Spendly-legal/
 
 ## Changes to These Terms
 
